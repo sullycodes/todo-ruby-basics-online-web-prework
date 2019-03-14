@@ -15,7 +15,7 @@ def greeting(name, height)
 end
 
 def return_a_value
-  puts "Nice"
+  return "Nice"
 end
 
 def last_evaluated_value
