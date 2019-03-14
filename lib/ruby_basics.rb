@@ -1,25 +1,25 @@
 def division(num1, num2)
- 
+  12 / 3
 end
 
 def assign_variable(value)
-  
+  assign_variable = (name)
 end
 
-def argue
-  
+def argue(name)
+  return
 end
 
-def greeting
-
+def greeting(name, height)
+  
 end
 
 def return_a_value
-
+  puts "Nice"
 end
 
 def last_evaluated_value
-
+  
 end
 
 def pizza_party
